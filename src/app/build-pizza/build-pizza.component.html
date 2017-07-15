@@ -1,0 +1,5 @@
+<h1> Build A Pizza </h1>
+
+<app-pizza-form (onPizzaAdd)="addPizzaToArray($event)"></app-pizza-form>
+
+<app-pizza-list [pizzaArray]="allThePizzas"></app-pizza-list>

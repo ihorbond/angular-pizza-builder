@@ -1,0 +1,12 @@
+var myNumber = 50;
+myNumber = 9999;
+var myName = "Igor";
+var isHungry = false;
+isHungry = true;
+var myAnything = {};
+myAnything = "Hello";
+myAnything = 999;
+var myList = ['parmigiana', 'cordon blue', 'chicken sandwich'];
+var myOtherList = ['eggplant parmigiana', 'hummus', 'chickpea curry'];
+var MyNumberList;
+var MyOtherNumbers;
